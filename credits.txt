@@ -1,0 +1,12 @@
+muOS Custom Pixie Grid Theme
+
+By [Jessika Rocha](https://games.jessikarocha.com/)
+
+Main Menu Icons by Mario del Valle Guijarro 
+ - [Captain icon pack](https://mariodelvalle.github.io/CaptainIconWeb/)
+
+Boot logo and various images by [Jessika Rocha](https://games.jessikarocha.com/)
+
+Header and Footer Font: [Wasted Willy Font](https://creativemarket.com/MightySHORT/5493800-Wasted-Willie-Font) by MightySHORT
+
+Overall Theme Font: [Taco and Tequila](https://creativemarket.com/DesignSurplus/57200-Taco-and-Tequila-2-Fonts-Extras%21) by Design Surplus
