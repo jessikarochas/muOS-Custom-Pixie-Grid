@@ -3,6 +3,8 @@ Baisc customized theme for muOS (RG35xx H or any 640x480 compatible device)
 
 ## Contents
 - [About](#about-this-theme)
+
+
 - [Screenshots](#screenshots-and-images)
 - [Credits](#credits)
 - [Made With](#made-with)
