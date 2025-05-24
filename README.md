@@ -1,6 +1,12 @@
 # muOS Custom Pixie Grid Theme
 Baisc customized theme for muOS (RG35xx H or any 640x480 compatible device)
 
+## Contents
+- [About](#about-this-theme)
+- [Screenshots](#screenshots-and-images)
+- [Credits](#credits)
+- [Made With](#made-with)
+
 # ABOUT THIS THEME
 
 A customized version of the original **muOS - Pixie Theme**, tailored to enhance visuals. This theme brings a playful, clean aesthetic with a practical grid layout on the Collections/Favorites for a smoother user experience.
@@ -19,6 +25,11 @@ Originally built on the **Pixie Theme** for [muOS](https://theme.muos.dev/, this
 
 Users who love clean interfaces, prefer a grid-based layout for navigation, and want their muOS handheld to have a bit more personality and creative visual feel to it.
 
+## SCREENSHOTS AND IMAGES
+![home](./640x480/preview.png)
+![collections](./640x480/screenshots/collections.png)
+![apps](./640x480/screenshots/apps.png)
+![menus](./640x480/screenshots/menus.png)
 
 # CREDITS
 By [Jessika Rocha](https://games.jessikarocha.com/)
@@ -31,3 +42,10 @@ Boot logo and various images by [Jessika Rocha](https://games.jessikarocha.com/)
 Header and Footer Font: [Wasted Willy Font](https://creativemarket.com/MightySHORT/5493800-Wasted-Willie-Font) by MightySHORT
 
 Overall Theme Font: [Taco and Tequila](https://creativemarket.com/DesignSurplus/57200-Taco-and-Tequila-2-Fonts-Extras%21) by Design Surplus
+
+# Made With
+
+![Affinity Designer](https://affinity.serif.com/en-gb/designer)
+![Sublime Text](https://www.sublimetext.com/)
+![Procreate](https://procreate.com/)
+![Canva](https://www.canva.com/)
