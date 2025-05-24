@@ -29,6 +29,8 @@ Users who love clean interfaces, prefer a grid-based layout for navigation, and 
 
 ## SCREENSHOTS AND IMAGES
 ![home](./640x480/preview.png)
+
+-
 ![collections](./640x480/screenshots/collections.png)
 ![apps](./640x480/screenshots/apps.png)
 ![menus](./640x480/screenshots/menus.png)
