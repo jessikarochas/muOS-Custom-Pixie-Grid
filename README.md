@@ -21,7 +21,7 @@ A customized version of the original **muOS - Pixie Theme**, tailored to enhance
 
 ## 📦 Based On:
 
-Originally built on the **Pixie Theme** for [muOS](https://theme.muos.dev/, this version retains its lightweight charm while introducing visual and functional improvements.
+Originally built on the **Pixie Theme** for [muOS](https://theme.muos.dev/), this version retains its lightweight charm while introducing visual and functional improvements.
 
 ## 🎨 Ideal For:
 
